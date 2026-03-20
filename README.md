@@ -27,8 +27,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Nitin-yl&style=for-the-badge&color=00fff5&labelColor=050510&label=⚡+PROFILE+VIEWS"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Nitin-yl?style=for-the-badge&color=ff00c8&labelColor=050510&label=◈+FOLLOWERS"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/COLLAB-OPEN-00fff5?style=for-the-badge&labelColor=050510&logo=handshake&logoColor=00fff5"/>
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-ff00c8?style=for-the-badge&labelColor=050510"/>
@@ -84,19 +82,6 @@ export const developer = {
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐
-     │           GITHUB TROPHIES                               │
-     └─────────────────────────────────────────────────────────┘ -->
-
-<div align="center">
-
-## 🏆 `> achievements --unlock-all`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nitin-yl&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
 
 <!-- ┌─────────────────────────────────────────────────────────┐
      │           CONTRIBUTION SNAKE                            │
@@ -166,7 +151,6 @@ export const developer = {
 
 ### `[ LANGUAGES ]`
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -241,7 +225,7 @@ export const developer = {
 PID   PROJECT               STACK                        STATUS
 ────  ────────────────────  ───────────────────────────  ───────────────
 001   Modern Web Apps       React + Tailwind + Node       🟢 ACTIVE
-002   DSA Mastery           C++ / JavaScript              🟡 GRINDING
+002   DSA Mastery           C++ / Java                    🟡 GRINDING
 003   Full-Stack Projects   MERN Stack                    🟢 IN PROGRESS
 004   UI Component Library  React + TailwindCSS           🔵 PLANNING
 005   Open Source Collabs   Various                       🟣 OPEN
